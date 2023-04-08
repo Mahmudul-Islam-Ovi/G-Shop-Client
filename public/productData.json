@@ -1,0 +1,130 @@
+[
+    {
+      "_id": "643061cb4dec8c7c1c3d773e",
+      "category": "oil",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/coconat-oillight-green.jpg",
+      "productName": "Coconut oil",
+      "price": 350,
+      "rating": 4.5
+    },
+    {
+      "_id": "643061cbc41f286b6b01eff0",
+      "category": "oil",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/mustard-oil-1-ltrpink.jpg",
+      "productName": "Mustard Oil",
+      "price": 350,
+      "rating": 4
+    },
+    {
+      "_id": "643061cb7a1acec83ab2cab4",
+      "category": "oil",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/mustard-oil-5-ltr.jpg",
+      "productName": "Mustard Oil 5 Liter",
+      "price": 1250,
+      "rating": 5
+    },
+    {
+      "_id": "643061cb4980d3aa1236f956",
+      "category": "Rice",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/10/Najirshail-rice.jpeg",
+      "productName": "Rice",
+      "price": 500,
+      "rating": 4.5
+    },
+    {
+      "_id": "643061cbf2795b99f4f71886",
+      "category": "Beef",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-24-at-1.04.52-PM.jpeg",
+      "productName": "Premium Beef",
+      "price": 650,
+      "rating": 5
+    },
+    {
+      "_id": "643061cb1fd8e2b994cd9430",
+      "category": "Bakarkhani",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Bakarkhani-4.jpg",
+      "productName": "Premium Bakarkhani",
+      "price": 150,
+      "rating": 3.5
+    },
+    {
+      "_id": "643061cb0092d4920b4c12d9",
+      "category": "Gur",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/jhola-gur-5.jpg",
+      "productName": "Jhola Gur",
+      "price": 480,
+      "rating": 3.5
+    },
+    {
+      "_id": "643061cbf546d3922da277be",
+      "category": "Eag",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Egg-2.jpg",
+      "productName": "Eag ",
+      "price": 40,
+      "rating": 5
+    },
+    {
+      "_id": "643061cb13fd0797f7e87734",
+      "category": "Bean",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Maskalai-dal-2.jpg",
+      "productName": "Bean",
+      "price": 200,
+      "rating": 3.5
+    },
+    {
+      "_id": "643061cb13fd0797f7e87735",
+      "category": "Bean",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Moshurer-dal-4.jpg",
+      "productName": "Lentils Bean",
+      "price": 170,
+      "rating": 3.5
+    },
+    {
+      "_id": "643061cb13fd0797f7e87736",
+      "category": "Butter",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/peanut-butter-4.jpg",
+      "productName": "Peanut Butter",
+      "price": 300,
+      "rating": 4
+    },
+    {
+      "_id": "643061cb13fd0797f7e87737",
+      "category": "Jelly",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Guava-jelly-5.jpg",
+      "productName": "Guava Jelly",
+      "price": 205,
+      "rating": 4.5
+    },
+    {
+      "_id": "643061cb13fd0797f7e87738",
+      "category": "Tea",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Tea-2.jpg",
+      "productName": "Black Tea",
+      "price": 450,
+      "rating": 4.5
+    },
+    {
+      "_id": "643061cb13fd0797f7e87739",
+      "category": "Masala",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Tehari-masala-5.jpg",
+      "productName": "Tehari Masala",
+      "price": 150,
+      "rating": 5
+    },
+    {
+      "_id": "643061cb13fd0797f7e877310",
+      "category": "Masala",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/Roast-masala.jpg",
+      "productName": " Roast Masala",
+      "price": 180,
+      "rating": 4.5
+    },
+    {
+      "_id": "643061cb13fd0797f7e877311",
+      "category": "Masala",
+      "img": "https://greengrocery.com.bd/wp-content/uploads/2022/09/kala-bhuna-masala-2.jpg",
+      "productName": "Kalabhuna Masala",
+      "price": 200,
+      "rating": 3.5
+    }
+  ]
